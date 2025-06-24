@@ -1,0 +1,121 @@
+<!-- public/index.html -->
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LPSE Crawler</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; max-width: 600px; margin: auto; }
+    #loading { display: none; color: blue; }
+    #result { margin-top: 1em; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <h2>🔍 Cek Kemunculan Pemenang Tender</h2>
+  <form id="crawler-form">
+    <input type="text" id="nama" placeholder="Masukkan nama pemenang..." required />
+    <button type="submit">Mulai Crawl</button>
+  </form>
+
+  <div id="loading">⏳ Sedang memproses... mohon tunggu...</div>
+  <div id="result"></div>
+  <h3>📄 Hasil Pencarian</h3>
+  <table id="hasil-table" border="1" cellpadding="5" cellspacing="0" style="margin-top: 1em; width: 100%;">
+    <thead>
+      <tr>
+        <th>Domain</th>
+        <th>ID Tender</th>
+        <th>Nama Pemenang</th>
+        <th>Tahun</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    document.getElementById('crawler-form').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const nama = document.getElementById('nama').value;
+      const loading = document.getElementById('loading');
+      const result = document.getElementById('result');
+
+      result.textContent = '';
+      loading.style.display = 'block';
+
+      try {
+        const res = await fetch('/api/crawl', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ nama })
+        });
+
+        const data = await res.json();
+        loading.style.display = 'none';
+
+        result.textContent = `✅ Total domain dicek: ${data.totalDomain}\n🎯 Total match ditemukan: ${data.totalMatch}`;
+      } catch (error) {
+        loading.style.display = 'none';
+        result.textContent = '❌ Terjadi kesalahan saat memproses.';
+      }
+    });
+  </script>
+  <script>
+  async function tampilkanHasil() {
+    const res = await fetch('/api/hasil');
+    const data = await res.json();
+    const tbody = document.querySelector('#hasil-table tbody');
+    tbody.innerHTML = '';
+
+    if (!data.length) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `<td colspan="4" style="text-align:center;">Tidak ada hasil</td>`;
+      tbody.appendChild(tr);
+      return;
+    }
+
+    data.forEach(row => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td><a href="${row.domain}/lelang/${row.id}/pemenang" target="_blank">${row.domain}</a></td>
+        <td>${row.id}</td>
+        <td>${row.namaPemenang}</td>
+        <td>${row.year}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+
+  document.getElementById('crawler-form').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    const nama = document.getElementById('nama').value;
+    const loading = document.getElementById('loading');
+    const result = document.getElementById('result');
+
+    result.textContent = '';
+    loading.style.display = 'block';
+
+    try {
+      const res = await fetch('/api/crawl', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ nama })
+      });
+
+      const data = await res.json();
+      loading.style.display = 'none';
+      result.textContent = `✅ Total domain dicek: ${data.totalDomain}\n🎯 Total match ditemukan: ${data.totalMatch}`;
+
+      await tampilkanHasil(); // tampilkan ulang hasil setelah crawl
+    } catch (error) {
+      loading.style.display = 'none';
+      result.textContent = '❌ Terjadi kesalahan saat memproses.';
+    }
+  });
+
+  // tampilkan hasil saat halaman pertama dibuka
+  tampilkanHasil();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+{
+    "draw": 1,
+    "recordsTotal": 593,
+    "recordsFiltered": 593,
+    "data": [
+        {
+            "nama": "Provinsi Aceh",
+            "url": "https:\/\/lpse.acehprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Jaya",
+            "url": "https:\/\/lpse.acehjayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Barat",
+            "url": "https:\/\/lpse.acehbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bener Meriah",
+            "url": "https:\/\/lpse.benermeriahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Tamiang",
+            "url": "https:\/\/lpse.acehtamiangkab.go.id\/eproc4"
+        },
+
+        {
+            "nama": "Kemen PU",
+            "url": "https:\/\/lpse.pu.go.id\/eproc4"
+        }
+    ],
+    "disableOrdering": false
+}

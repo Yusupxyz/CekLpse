@@ -1,0 +1,2380 @@
+{
+    "draw": 1,
+    "recordsTotal": 593,
+    "recordsFiltered": 593,
+    "data": [
+        {
+            "nama": "Provinsi Aceh",
+            "url": "https:\/\/lpse.acehprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Jaya",
+            "url": "https:\/\/lpse.acehjayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Barat",
+            "url": "https:\/\/lpse.acehbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bener Meriah",
+            "url": "https:\/\/lpse.benermeriahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Tamiang",
+            "url": "https:\/\/lpse.acehtamiangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Timur",
+            "url": "https:\/\/lpse.acehtimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Simeulue",
+            "url": "https:\/\/lpse.simeuluekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Banda Aceh",
+            "url": "https:\/\/lpse.bandaacehkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nagan Raya",
+            "url": "https:\/\/lpse.naganrayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Selatan",
+            "url": "https:\/\/lpse.acehselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Utara",
+            "url": "https:\/\/lpse.acehutara.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Barat Daya",
+            "url": "https:\/\/lpse.acehbaratdayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Sabang",
+            "url": "https:\/\/lpse.sabangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Singkil",
+            "url": "https:\/\/lpse.acehsingkilkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Tengah",
+            "url": "https:\/\/lpse.acehtengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pidie",
+            "url": "https:\/\/lpse.pidiekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bireuen",
+            "url": "https:\/\/lpse.bireuenkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Lhokseumawe",
+            "url": "https:\/\/lpse.lhokseumawekota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Subulussalam",
+            "url": "https:\/\/lpse.subulussalamkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Tenggara",
+            "url": "https:\/\/lpse.acehtenggarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pidie Jaya",
+            "url": "https:\/\/lpse.pidiejayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Langsa",
+            "url": "https:\/\/lpse.langsakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Aceh Besar",
+            "url": "https:\/\/lpse.acehbesarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gayolues",
+            "url": "https:\/\/lpse.gayolueskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Bali",
+            "url": "https:\/\/lpse.baliprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buleleng",
+            "url": "https:\/\/eproc.bulelengkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jembrana",
+            "url": "https:\/\/lpse.jembranakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tabanan",
+            "url": "https:\/\/lpse.tabanankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Badung",
+            "url": "https:\/\/lpse.badungkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gianyar",
+            "url": "https:\/\/lpse.gianyarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Klungkung",
+            "url": "https:\/\/lpse.klungkungkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Denpasar",
+            "url": "https:\/\/eproc.denpasarkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Karangasem",
+            "url": "https:\/\/lpse.karangasemkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bangli",
+            "url": "https:\/\/lpse.banglikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Banten",
+            "url": "https:\/\/lpse.bantenprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tangerang",
+            "url": "https:\/\/lpse.tangerangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Serang",
+            "url": "https:\/\/lpse.serangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lebak",
+            "url": "https:\/\/lpse.lebakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Cilegon",
+            "url": "https:\/\/lpse.cilegon.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Serang",
+            "url": "https:\/\/lpse.serangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tangerang",
+            "url": "https:\/\/lpse.tangerangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tangerang Selatan",
+            "url": "https:\/\/lpse.tangerangselatankota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pandeglang",
+            "url": "https:\/\/lpse.pandeglangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kaur",
+            "url": "https:\/\/lpse.kaurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bengkulu Utara",
+            "url": "https:\/\/lpse.bengkuluutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bengkulu Selatan",
+            "url": "https:\/\/lpse.bengkuluselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bengkulu",
+            "url": "https:\/\/lpse.bengkulukota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepahiang",
+            "url": "https:\/\/lpse.kepahiangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Rejang Lebong",
+            "url": "https:\/\/lpse.rejanglebongkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lebong",
+            "url": "https:\/\/lpse.lebongkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bengkulu Tengah",
+            "url": "https:\/\/lpse.bengkulutengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mukomuko",
+            "url": "https:\/\/lpse-mukomukokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Bengkulu",
+            "url": "https:\/\/lpse.bengkuluprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Seluma",
+            "url": "https:\/\/lpse.selumakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Daerah Istimewa Yogyakarta",
+            "url": "https:\/\/lpse.jogjaprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sleman",
+            "url": "https:\/\/lpse.slemankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kulon Progo",
+            "url": "https:\/\/lpse.kulonprogokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Yogyakarta",
+            "url": "https:\/\/lpse.jogjakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bantul",
+            "url": "https:\/\/lpse.bantulkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gunung Kidul",
+            "url": "https:\/\/lpse.gunungkidulkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+            "url": "https:\/\/lpse.pu.go.id\/eproc4"
+        },
+        {
+            "nama": "Lembaga Kebijakan Pengadaan Barang\/Jasa Pemerintah",
+            "url": "https:\/\/lpse.lkpp.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Perhubungan",
+            "url": "https:\/\/lpse.dephub.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Agama",
+            "url": "https:\/\/lpse.kemenag.go.id\/eproc4"
+        },
+        {
+            "nama": "Kepolisian Republik Indonesia",
+            "url": "https:\/\/lpse.polri.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementrian Kesehatan",
+            "url": "https:\/\/lpse.kemkes.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Hukum RI",
+            "url": "https:\/\/lpse.kemenkum.go.id\/eproc4\/"
+        },
+        {
+            "nama": "Kementerian Keuangan",
+            "url": "https:\/\/lpse.kemenkeu.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Agraria dan Tata Ruang\/ BPN",
+            "url": "https:\/\/lpse.atrbpn.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian ESDM",
+            "url": "https:\/\/eproc.esdm.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Kelautan dan Perikanan",
+            "url": "https:\/\/lpse.kkp.go.id\/eproc4"
+        },
+        {
+            "nama": "TNI Angkatan Laut",
+            "url": "https:\/\/lpse.tnial.mil.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi DKI Jakarta",
+            "url": "https:\/\/spse.inaproc.id\/jakarta"
+        },
+        {
+            "nama": "Kementerian Lingkungan Hidup dan Kehutanan",
+            "url": "https:\/\/lpse.menlhk.go.id\/eproc4"
+        },
+        {
+            "nama": "TNI Angkatan Udara",
+            "url": "https:\/\/lpse.tni-au.mil.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Pertanian",
+            "url": "https:\/\/spse.inaproc.id\/pertanian"
+        },
+        {
+            "nama": "Badan Meteorologi, Klimatologi, dan Geofisika",
+            "url": "https:\/\/lpse.bmkg.go.id\/eproc4"
+        },
+        {
+            "nama": "Mabes Tentara Nasional Indonesia",
+            "url": "https:\/\/lpse.mabestni.mil.id\/eproc4"
+        },
+        {
+            "nama": "Mahkamah Agung RI",
+            "url": "https:\/\/lpse.mahkamahagung.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Dalam Negeri",
+            "url": "https:\/\/lpse.kemendagri.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Pendidikan dan Kebudayaan",
+            "url": "https:\/\/lpse.kemendikdasmen.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Desa Pembangunan Daerah Tertinggal dan Transmigrasi RI",
+            "url": "https:\/\/lpse.kemendesa.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Koperasi dan Usaha Kecil dan Menengah",
+            "url": "https:\/\/lpse.kemenkopukm.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Pusat Statistik",
+            "url": "https:\/\/lpse.bps.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Pariwisata",
+            "url": "https:\/\/lpse.kemenpar.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Nasional Pencarian dan Pertolongan",
+            "url": "https:\/\/lpse.basarnas.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Pengawas Obat dan Makanan",
+            "url": "https:\/\/lpse.pom.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Pertahanan Republik Indonesia",
+            "url": "https:\/\/lpse.kemhan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Perindustrian",
+            "url": "https:\/\/lpse.kemenperin.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Narkotika Nasional",
+            "url": "https:\/\/lpse.bnn.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Komunikasi Dan Informatika",
+            "url": "https:\/\/lpse.komdigi.go.id\/eproc4"
+        },
+        {
+            "nama": "DPR RI",
+            "url": "https:\/\/lpse.dpr.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Riset dan Inovasi Nasional",
+            "url": "https:\/\/lpse.brin.go.id\/eproc4"
+        },
+        {
+            "nama": "Komisi Pemilihan Umum",
+            "url": "https:\/\/lpse.kpu.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Kepegawaian Negara Republik Indonesia",
+            "url": "https:\/\/lpse.bkn.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Koordinasi Penanaman Modal",
+            "url": "https:\/\/lpse.bkpm.go.id\/eproc4"
+        },
+        {
+            "nama": "Kejaksaan RI",
+            "url": "https:\/\/lpse.kejaksaan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Perdagangan RI",
+            "url": "https:\/\/lpse.kemendag.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Ketenagakerjaan",
+            "url": "https:\/\/lpse.kemnaker.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia",
+            "url": "https:\/\/lpse.bp2mi.go.id\/eproc4"
+        },
+        {
+            "nama": "LPSE Kementerian Pemuda dan Olahraga",
+            "url": "https:\/\/lpse.kemenpora.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementerian Luar Negeri Republik Indonesia",
+            "url": "https:\/\/lpse.kemlu.go.id\/eproc4"
+        },
+        {
+            "nama": "TVRI",
+            "url": "https:\/\/lpse.tvri.go.id\/eproc4"
+        },
+        {
+            "nama": "Mahkamah Konstitusi",
+            "url": "https:\/\/lpse.mkri.id\/eproc4"
+        },
+        {
+            "nama": "MPR RI",
+            "url": "https:\/\/lpse.mpr.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Nasional Penanggulangan Terorisme",
+            "url": "https:\/\/lpse.bnpt.go.id\/eproc4"
+        },
+        {
+            "nama": "DPD RI",
+            "url": "https:\/\/lpse.dpd.go.id\/eproc4"
+        },
+        {
+            "nama": "Lembaga Ketahanan Nasional",
+            "url": "https:\/\/lpse.lemhannas.go.id\/eproc4"
+        },
+        {
+            "nama": "Kementrian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+            "url": "https:\/\/lpse.menpan.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Siber dan Sandi Negara",
+            "url": "https:\/\/lpse.bssn.go.id\/eproc4"
+        },
+        {
+            "nama": "KEMENKO POLHUKAM",
+            "url": "https:\/\/lpse.polkam.go.id\/eproc4"
+        },
+        {
+            "nama": "Setjen Watannas",
+            "url": "https:\/\/lpse.wantannas.go.id\/eproc4"
+        },
+        {
+            "nama": "BKKBN",
+            "url": "https:\/\/lpse.bkkbn.go.id\/eproc4"
+        },
+        {
+            "nama": "TNI ANGKATAN DARAT",
+            "url": "https:\/\/lpse.tniad.org\/eproc4"
+        },
+        {
+            "nama": "Badan Keamanan Laut Republik Indonesia",
+            "url": "https:\/\/lpse.bakamla.go.id\/eproc4"
+        },
+        {
+            "nama": "SPSE Nasional",
+            "url": "https:\/\/spse.inaproc.id\/nasional"
+        },
+        {
+            "nama": "Badan Nasional Penanggulangan Bencana",
+            "url": "https:\/\/lpse.bnpb.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Gorontalo",
+            "url": "https:\/\/lpse.gorontalokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gorontalo",
+            "url": "https:\/\/lpse.gorontalokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gorontalo Utara",
+            "url": "https:\/\/lpse.gorutkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Boalemo",
+            "url": "https:\/\/lpse.boalemokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pohuwato",
+            "url": "https:\/\/lpse.pohuwatokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bone Bolango",
+            "url": "https:\/\/lpse.bonebolangokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Gorontalo",
+            "url": "https:\/\/lpse.gorontaloprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Jambi",
+            "url": "https:\/\/lpse.jambikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Jambi",
+            "url": "https:\/\/lpse.jambiprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Merangin",
+            "url": "https:\/\/lpse.meranginkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tanjung Jabung Barat",
+            "url": "https:\/\/lpse.tanjabbarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tanjung Jabung Timur",
+            "url": "https:\/\/lpse.tanjabtimkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tebo",
+            "url": "https:\/\/lpse.tebokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Batang Hari",
+            "url": "https:\/\/lpse.batangharikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Sungai Penuh",
+            "url": "https:\/\/lpse.sungaipenuhkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sarolangun",
+            "url": "https:\/\/lpse.sarolangunkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Muaro Jambi",
+            "url": "https:\/\/lpse.muarojambikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kerinci",
+            "url": "https:\/\/lpse.kerincikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bungo",
+            "url": "https:\/\/lpse.bungokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Jawa Barat",
+            "url": "https:\/\/lpse.jabarprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Majalengka",
+            "url": "https:\/\/lpse.majalengkakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Cianjur",
+            "url": "https:\/\/lpse.cianjurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bogor",
+            "url": "https:\/\/eproc.kotabogor.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bekasi",
+            "url": "https:\/\/lpse.bekasikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Depok",
+            "url": "https:\/\/lpse.depok.go.id\/eproc4"
+        },
+        {
+            "nama": "Badan Informasi Geospasial",
+            "url": "https:\/\/lpse.big.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Subang",
+            "url": "https:\/\/lpse.subang.go.id\/eproc4"
+        },
+        {
+            "nama": "Universitas Indonesia",
+            "url": "https:\/\/lpse.ui.ac.id\/eproc4\/"
+        },
+        {
+            "nama": "Kabupaten Indramayu",
+            "url": "https:\/\/lpse.indramayukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bekasi",
+            "url": "https:\/\/lpse.bekasikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bandung",
+            "url": "https:\/\/lpse.bandungkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sukabumi",
+            "url": "https:\/\/lpse.sukabumikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bogor",
+            "url": "https:\/\/lpse.bogorkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Purwakarta",
+            "url": "https:\/\/lpse.purwakartakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bandung",
+            "url": "https:\/\/lpse.bandung.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Cimahi",
+            "url": "https:\/\/lpse.cimahikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ciamis",
+            "url": "https:\/\/lpse.ciamiskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Karawang",
+            "url": "https:\/\/lpse.karawangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tasikmalaya",
+            "url": "https:\/\/lpse.tasikmalayakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Cirebon",
+            "url": "https:\/\/lpse.cirebonkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bandung Barat",
+            "url": "https:\/\/lpse.bandungbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tasikmalaya",
+            "url": "https:\/\/lpse.tasikmalayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kuningan",
+            "url": "https:\/\/lpse.kuningankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumedang",
+            "url": "https:\/\/lpse.sumedangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Banjar",
+            "url": "https:\/\/lpse.banjarkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Jawa Tengah",
+            "url": "https:\/\/lpse.jatengprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Cilacap",
+            "url": "https:\/\/lpse.cilacapkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banyumas",
+            "url": "https:\/\/lpse.banyumaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kebumen",
+            "url": "https:\/\/lpse.kebumenkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Surakarta",
+            "url": "https:\/\/lpse.surakarta.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pekalongan",
+            "url": "https:\/\/lpse.pekalongankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Boyolali",
+            "url": "https:\/\/lpse.boyolali.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Purworejo",
+            "url": "https:\/\/lpse.purworejokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pati",
+            "url": "https:\/\/lpse.patikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Klaten",
+            "url": "https:\/\/lpse.klaten.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sragen",
+            "url": "https:\/\/lpse.sragenkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Semarang",
+            "url": "https:\/\/lpse.semarangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Universitas Diponegoro",
+            "url": "https:\/\/lpse.undip.ac.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Temanggung",
+            "url": "https:\/\/lpse.temanggungkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Blora",
+            "url": "https:\/\/lpse.blorakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Salatiga",
+            "url": "https:\/\/lpse.salatiga.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kudus",
+            "url": "https:\/\/lpse.kuduskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Wonosobo",
+            "url": "https:\/\/lpse.wonosobokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Karanganyar",
+            "url": "https:\/\/lpse.karanganyarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tegal",
+            "url": "https:\/\/lpse.tegalkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Brebes",
+            "url": "https:\/\/lpse.brebeskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Wonogiri",
+            "url": "https:\/\/lpse.wonogirikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Purbalingga",
+            "url": "https:\/\/lpse.purbalinggakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Batang",
+            "url": "https:\/\/lpse.batangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Magelang",
+            "url": "https:\/\/lpse.magelangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Demak",
+            "url": "https:\/\/lpse.demakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Grobogan",
+            "url": "https:\/\/lpse.grobogan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tegal",
+            "url": "https:\/\/lpse.tegalkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pemalang",
+            "url": "https:\/\/lpse.pemalangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Rembang",
+            "url": "https:\/\/lpse.rembangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pekalongan",
+            "url": "https:\/\/lpse.pekalongankota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kendal",
+            "url": "https:\/\/lpse.kendalkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Semarang",
+            "url": "https:\/\/lpse.semarangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Magelang",
+            "url": "https:\/\/lpse.magelangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banjarnegara",
+            "url": "https:\/\/lpse.banjarnegarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sukoharjo",
+            "url": "https:\/\/lpse.sukoharjokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jepara",
+            "url": "https:\/\/lpse.jepara.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sidoarjo",
+            "url": "https:\/\/lpse.sidoarjokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Jawa Timur",
+            "url": "https:\/\/lpse.jatimprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bojonegoro",
+            "url": "https:\/\/lpse.bojonegorokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pasuruan",
+            "url": "https:\/\/lpse.pasuruankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gresik",
+            "url": "https:\/\/lpse.gresikkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Madiun",
+            "url": "https:\/\/lpse.madiunkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ngawi",
+            "url": "https:\/\/lpse.ngawikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumenep",
+            "url": "https:\/\/lpse.sumenepkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Blitar",
+            "url": "https:\/\/lpse.blitarkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Madiun",
+            "url": "https:\/\/lpse.madiunkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Blitar",
+            "url": "https:\/\/lpse.blitarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kediri",
+            "url": "https:\/\/lpse.kedirikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tuban",
+            "url": "https:\/\/lpse.tubankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jombang",
+            "url": "https:\/\/lpse.jombangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banyuwangi",
+            "url": "https:\/\/lpse.banyuwangikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Situbondo",
+            "url": "https:\/\/lpse.situbondokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Malang",
+            "url": "https:\/\/lpse.malangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Probolinggo",
+            "url": "https:\/\/lpse.probolinggokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Batu",
+            "url": "https:\/\/lpse.batukota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lumajang",
+            "url": "https:\/\/lpse.lumajangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Probolinggo",
+            "url": "https:\/\/lpse.probolinggokab.go.id\/eproc4"
+        },
+        {
+            "nama": "ITS",
+            "url": "https:\/\/lpse.its.ac.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pasuruan",
+            "url": "https:\/\/lpse.pasuruankota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ponorogo",
+            "url": "https:\/\/lpse.ponorogo.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pamekasan",
+            "url": "https:\/\/lpse.pamekasankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Kediri",
+            "url": "https:\/\/lpse.kedirikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bangkalan",
+            "url": "https:\/\/lpse.bangkalankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sampang",
+            "url": "https:\/\/lpse.sampangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Malang",
+            "url": "https:\/\/lpse.malangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mojokerto",
+            "url": "https:\/\/lpse.mojokertokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Trenggalek",
+            "url": "https:\/\/lpse.trenggalekkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tulungagung",
+            "url": "https:\/\/lpse.tulungagung.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pacitan",
+            "url": "https:\/\/lpse.pacitankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jember",
+            "url": "https:\/\/lpse.jemberkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Mojokerto",
+            "url": "https:\/\/lpse.mojokertokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bondowoso",
+            "url": "https:\/\/lpse.bondowosokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Surabaya",
+            "url": "https:\/\/lpse.surabaya.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lamongan",
+            "url": "https:\/\/lpse.lamongankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Magetan",
+            "url": "https:\/\/lpse.magetan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nganjuk",
+            "url": "https:\/\/lpse.nganjukkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Kalimantan Barat",
+            "url": "https:\/\/lpse.kalbarprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kubu Raya",
+            "url": "https:\/\/lpse.kuburayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sekadau",
+            "url": "https:\/\/lpse.sekadaukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pontianak",
+            "url": "https:\/\/lpse.pontianak.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ketapang",
+            "url": "https:\/\/lpse.ketapangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Landak",
+            "url": "https:\/\/lpse.landakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kapuas Hulu",
+            "url": "https:\/\/lpse.kapuashulukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sintang",
+            "url": "https:\/\/lpse.sintang.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sanggau",
+            "url": "https:\/\/lpse.sanggau.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mempawah",
+            "url": "https:\/\/lpse.mempawahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Melawi",
+            "url": "https:\/\/lpse.melawikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sambas",
+            "url": "https:\/\/lpse.sambas.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Singkawang",
+            "url": "https:\/\/lpse.singkawangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kayong Utara",
+            "url": "https:\/\/lpse.kayongutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bengkayang",
+            "url": "https:\/\/lpse.bengkayangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Kalimantan Selatan",
+            "url": "https:\/\/lpse.kalselprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tanah Bumbu",
+            "url": "https:\/\/lpse.tanahbumbukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Barito Kuala",
+            "url": "https:\/\/lpse.baritokualakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Banjarmasin",
+            "url": "https:\/\/lpse.banjarmasinkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kotabaru",
+            "url": "https:\/\/lpse.kotabarukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Balangan",
+            "url": "https:\/\/lpse.balangankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tapin",
+            "url": "https:\/\/lpse.tapinkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Hulu Sungai Selatan",
+            "url": "https:\/\/lpse.hulusungaiselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tabalong",
+            "url": "https:\/\/lpse.tabalongkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banjar",
+            "url": "https:\/\/lpse.banjarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Banjarbaru",
+            "url": "https:\/\/lpse.banjarbarukota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tanah Laut",
+            "url": "https:\/\/lpse.tanahlautkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Hulu Sungai Utara",
+            "url": "https:\/\/lpse.hsu.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Hulu Sungai Tengah",
+            "url": "https:\/\/lpse.hstkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Kalimantan Tengah",
+            "url": "https:\/\/lpse.kalteng.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kotawaringin Barat",
+            "url": "https:\/\/lpse.kotawaringinbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kotawaringin Timur",
+            "url": "https:\/\/lpse.kotimkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten barito utara",
+            "url": "https:\/\/lpse.baritoutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Palangka Raya",
+            "url": "https:\/\/lpse.palangkaraya.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Seruyan",
+            "url": "https:\/\/lpse.seruyankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Katingan",
+            "url": "https:\/\/spse.inaproc.id\/katingankab"
+        },
+        {
+            "nama": "Kabupaten Lamandau",
+            "url": "https:\/\/lpse.lamandaukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kapuas",
+            "url": "https:\/\/lpse.kapuaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pulang Pisau",
+            "url": "https:\/\/lpse.pulangpisaukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Barito Timur",
+            "url": "https:\/\/lpse.baritotimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sukamara",
+            "url": "https:\/\/lpse.sukamarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Murung Raya",
+            "url": "https:\/\/lpse.murungrayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Barito Selatan",
+            "url": "https:\/\/lpse.baritoselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gunung Mas",
+            "url": "https:\/\/lpse.gunungmaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kutai Barat",
+            "url": "https:\/\/lpse.kutaibaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Kalimantan Timur",
+            "url": "https:\/\/lpse.kaltimprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Balikpapan",
+            "url": "https:\/\/lpse.balikpapan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kutai Kartanegara",
+            "url": "https:\/\/lpse.kukarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Paser",
+            "url": "https:\/\/lpse.paserkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Samarinda",
+            "url": "https:\/\/lpse.samarindakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Berau",
+            "url": "https:\/\/spse.beraukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kutai Timur",
+            "url": "https:\/\/lpse.kutaitimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Penajam Paser Utara",
+            "url": "https:\/\/lpse.penajamkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mahakam Ulu",
+            "url": "https:\/\/lpse.mahakamulukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bontang",
+            "url": "https:\/\/lpse.bontangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "PROVINSI KALIMANTAN UTARA",
+            "url": "https:\/\/lpse.kaltaraprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tana Tidung",
+            "url": "https:\/\/lpse.tanatidungkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Malinau",
+            "url": "https:\/\/lpse.malinau.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bulungan",
+            "url": "https:\/\/spse.bulungan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nunukan",
+            "url": "https:\/\/lpse.nunukankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tarakan",
+            "url": "https:\/\/lpse.tarakankota.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Kepulauan Bangka Belitung",
+            "url": "https:\/\/spse.inaproc.id\/babelprov"
+        },
+        {
+            "nama": "Kabupaten Bangka Tengah",
+            "url": "https:\/\/lpse.bangkatengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bangka",
+            "url": "https:\/\/lpse.bangka.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bangka Barat",
+            "url": "https:\/\/lpse.bangkabaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Belitung",
+            "url": "https:\/\/lpse.belitung.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bangka Selatan",
+            "url": "https:\/\/lpse.bangkaselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pangkal Pinang",
+            "url": "https:\/\/lpse.pangkalpinangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Belitung Timur",
+            "url": "https:\/\/lpse.beltim.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Batam",
+            "url": "https:\/\/lpse.batam.go.id\/eproc4"
+        },
+        {
+            "nama": "BP BATAM",
+            "url": "https:\/\/lpse.bpbatam.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Kepulauan Riau",
+            "url": "https:\/\/lpse.kepriprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Karimun",
+            "url": "https:\/\/lpsetbk.karimunkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Natuna",
+            "url": "https:\/\/lpse.natunakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Anambas",
+            "url": "https:\/\/lpse.anambaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bintan",
+            "url": "https:\/\/lpse.bintankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lingga",
+            "url": "https:\/\/lpse.linggakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tanjungpinang",
+            "url": "https:\/\/lpse.tanjungpinangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Lampung",
+            "url": "https:\/\/lpse.lampungprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pesisir Barat",
+            "url": "https:\/\/lpse.pesisirbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lampung Tengah",
+            "url": "https:\/\/lpse.lampungtengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pesawaran",
+            "url": "https:\/\/lpse.pesawarankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lampung Barat",
+            "url": "https:\/\/lpse.lampungbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pringsewu",
+            "url": "https:\/\/lpse.pringsewukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tanggamus",
+            "url": "https:\/\/lpse.tanggamus.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tulang Bawang Barat",
+            "url": "https:\/\/lpse.tubaba.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Way Kanan",
+            "url": "https:\/\/lpse.waykanankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lampung Utara",
+            "url": "https:\/\/lpse.lampungutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mesuji",
+            "url": "https:\/\/lpse.mesujikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Metro",
+            "url": "https:\/\/lpse.metrokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bandar Lampung",
+            "url": "https:\/\/lpse.bandarlampungkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Maluku",
+            "url": "https:\/\/lpse.malukuprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tual",
+            "url": "https:\/\/lpse.tualkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Maluku Barat Daya",
+            "url": "https:\/\/lpse.malukubaratdayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Seram Bagian Barat",
+            "url": "https:\/\/lpse.sbbkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Aru",
+            "url": "https:\/\/lpse.kepulauanarukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Maluku Tenggara",
+            "url": "https:\/\/lpse.malukutenggarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Maluku Tengah",
+            "url": "https:\/\/lpse.maltengkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Ambon",
+            "url": "https:\/\/lpse.ambon.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Tanimbar",
+            "url": "https:\/\/lpse.tanimbar.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Seram Bagian Timur",
+            "url": "https:\/\/lpse.serambagiantimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buru",
+            "url": "https:\/\/lpse.burukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buru Selatan",
+            "url": "https:\/\/lpse.burselkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Halmahera Selatan",
+            "url": "https:\/\/lpse.halmaheraselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pulau Morotai",
+            "url": "https:\/\/lpse.pulaumorotaikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Sula",
+            "url": "https:\/\/lpse.kepulauansulakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Maluku Utara",
+            "url": "https:\/\/lpse.malutprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Ternate",
+            "url": "https:\/\/lpse.ternatekota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tidore Kepulauan",
+            "url": "https:\/\/lpse.tidorekota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Halmahera Tengah",
+            "url": "https:\/\/lpse.haltengkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Halmahera Barat",
+            "url": "https:\/\/lpse.halbarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Halmahera Utara",
+            "url": "https:\/\/lpse.halmaherautarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Halmahera Timur",
+            "url": "https:\/\/lpse.haltimkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pulau Taliabu",
+            "url": "https:\/\/lpse.taliabukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lombok Timur",
+            "url": "https:\/\/lpse.lomboktimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bima",
+            "url": "https:\/\/lpse.bimakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Nusa Tenggara Barat",
+            "url": "https:\/\/lpse.ntbprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lombok Tengah",
+            "url": "https:\/\/www.lpse.lomboktengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumbawa Barat",
+            "url": "https:\/\/lpse.sumbawabaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumbawa",
+            "url": "https:\/\/lpse.sumbawakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lombok Barat",
+            "url": "https:\/\/lpse.lombokbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Mataram",
+            "url": "https:\/\/lpse.mataramkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bima",
+            "url": "https:\/\/lpse.bimakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Dompu",
+            "url": "https:\/\/lpse.dompukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lombok Utara",
+            "url": "https:\/\/lpse.lombokutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Nusa Tenggara Timur",
+            "url": "https:\/\/lpse.nttprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Manggarai Barat",
+            "url": "https:\/\/lpse.manggaraibaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Timor Tengah Selatan",
+            "url": "https:\/\/lpse.ttskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Kupang",
+            "url": "https:\/\/lpse.kupangkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Rote Ndao",
+            "url": "https:\/\/lpse.rotendaokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sabu Raijua",
+            "url": "https:\/\/lpse.saburaijuakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Flores Timur",
+            "url": "https:\/\/lpse.florestimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumba Tengah",
+            "url": "https:\/\/lpse.sumbatengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Manggarai",
+            "url": "https:\/\/lpse.manggaraikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lembata",
+            "url": "https:\/\/lpse.lembatakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Belu",
+            "url": "https:\/\/lpse.belukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sikka",
+            "url": "https:\/\/lpse.sikkakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nagekeo",
+            "url": "https:\/\/lpse.nagekeokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumba Timur",
+            "url": "https:\/\/lpse.sumbatimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumba Barat Daya",
+            "url": "https:\/\/lpse.sbdkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Manggarai Timur",
+            "url": "https:\/\/lpse.manggaraitimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kupang",
+            "url": "https:\/\/lpse.kupangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ngada",
+            "url": "https:\/\/lpse.ngadakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ende",
+            "url": "https:\/\/lpse.endekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Timor Tengah Utara",
+            "url": "https:\/\/lpse.ttukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Malaka",
+            "url": "https:\/\/lpse.malakakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Alor",
+            "url": "https:\/\/lpse.alorkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sumba Barat",
+            "url": "https:\/\/lpse.sumbabaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mimika",
+            "url": "https:\/\/lpse.mimikakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Papua",
+            "url": "https:\/\/lpse.papua.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Yapen",
+            "url": "https:\/\/lpse.kepyapenkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jayapura",
+            "url": "https:\/\/lpse.jayapurakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Merauke",
+            "url": "https:\/\/lpse.merauke.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Jayapura",
+            "url": "https:\/\/www.lpse.jayapurakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nabire",
+            "url": "https:\/\/lpse.nabirekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mamberamo Tengah",
+            "url": "https:\/\/lpse.mamberamotengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jayawijaya",
+            "url": "https:\/\/lpse.jayawijayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Keerom",
+            "url": "https:\/\/lpse.keeromkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Asmat",
+            "url": "https:\/\/lpse.asmatkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Puncak Jaya",
+            "url": "https:\/\/lpse.puncakjayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Biak Numfor",
+            "url": "https:\/\/lpse.biakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Intan Jaya",
+            "url": "https:\/\/lpse.intanjayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sarmi",
+            "url": "https:\/\/lpse.sarmikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Dogiyai",
+            "url": "https:\/\/lpse.dogiyaikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Supiori",
+            "url": "https:\/\/lpse.supiorikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Sorong",
+            "url": "https:\/\/lpse.sorongkota.go.id\/eproc4\/"
+        },
+        {
+            "nama": "Kabupaten Membramo Raya",
+            "url": "https:\/\/lpse.mamberamorayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lanny Jaya",
+            "url": "https:\/\/lpse-lannyjayakab.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nduga",
+            "url": "https:\/\/lpse.ndugakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pegunungan Bintang",
+            "url": "https:\/\/lpse.pegbintangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tolikara",
+            "url": "https:\/\/lpse.tolikarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Boven Digoel",
+            "url": "https:\/\/lpse.bovendigoelkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mappi",
+            "url": "https:\/\/lpse.mappikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Puncak",
+            "url": "https:\/\/lpse.puncakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Manokwari",
+            "url": "https:\/\/lpse.manokwarikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Teluk Bintuni",
+            "url": "https:\/\/lpse.telukbintunikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Fakfak",
+            "url": "https:\/\/lpse.fakfakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kaimana",
+            "url": "https:\/\/lpse.kaimanakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sorong",
+            "url": "https:\/\/lpse.sorongkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Raja Ampat",
+            "url": "https:\/\/lpse.rajaampatkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Papua Barat",
+            "url": "https:\/\/tender.papuabaratprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sorong Selatan",
+            "url": "https:\/\/lpse.sorongselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Teluk Wondama",
+            "url": "https:\/\/lpse.wondamakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Maybrat",
+            "url": "http:\/\/lpse.maybratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tambrauw",
+            "url": "https:\/\/lpse.tambrauwkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Siak",
+            "url": "https:\/\/lpse.siakkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Riau",
+            "url": "https:\/\/lpse.riau.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Meranti",
+            "url": "https:\/\/lpse.merantikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Dumai",
+            "url": "https:\/\/lpse.dumaikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kampar",
+            "url": "https:\/\/lpse.kamparkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pekanbaru",
+            "url": "https:\/\/lpse.pekanbaru.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Rokan Hulu",
+            "url": "https:\/\/lpse.rokanhulukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bengkalis",
+            "url": "https:\/\/lpse.bengkaliskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Rokan Hilir",
+            "url": "https:\/\/lpse.rohilkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pelalawan",
+            "url": "https:\/\/lpse.pelalawankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Indragiri Hilir",
+            "url": "https:\/\/lpse.inhilkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Indragiri Hulu",
+            "url": "https:\/\/lpse.inhukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kuantan Singingi",
+            "url": "https:\/\/lpse.kuansing.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mamuju",
+            "url": "https:\/\/lpse.mamujukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pasangkayu",
+            "url": "https:\/\/lpse.pasangkayukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Polewali Mandar",
+            "url": "https:\/\/lpse.polmankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Majene",
+            "url": "https:\/\/lpse.majenekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sulawesi Barat",
+            "url": "https:\/\/lpse.sulbarprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mamasa",
+            "url": "https:\/\/lpse.mamasakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mamuju Tengah",
+            "url": "https:\/\/lpse.mamujutengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Makassar",
+            "url": "https:\/\/lpse.makassar.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Maros",
+            "url": "https:\/\/lpse.maroskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sulawesi Selatan",
+            "url": "https:\/\/lpse.sulselprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Gowa",
+            "url": "https:\/\/lpse.gowakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Luwu Timur",
+            "url": "https:\/\/lpse.luwutimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bone",
+            "url": "https:\/\/lpse.bone.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sinjai",
+            "url": "https:\/\/lpse.sinjaikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Luwu Utara",
+            "url": "https:\/\/lpse.luwuutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Soppeng",
+            "url": "https:\/\/lpse.soppeng.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pangkajene Kepulauan",
+            "url": "https:\/\/lpse.pangkepkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Selayar",
+            "url": "https:\/\/lpse.kepulauanselayarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Barru",
+            "url": "https:\/\/lpse.barrukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bulukumba",
+            "url": "https:\/\/lpse.bulukumbakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Palopo",
+            "url": "https:\/\/lpse.palopokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sidenreng Rappang",
+            "url": "https:\/\/lpse.sidrapkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Luwu",
+            "url": "https:\/\/lpse.luwukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Toraja Utara",
+            "url": "https:\/\/lpse.torajautarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pinrang",
+            "url": "https:\/\/lpse.pinrangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bantaeng",
+            "url": "https:\/\/lpse.bantaengkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Takalar",
+            "url": "https:\/\/lpse.takalarkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pare-pare",
+            "url": "https:\/\/lpse.pareparekota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Wajo",
+            "url": "https:\/\/lpse-wajokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tana Toraja",
+            "url": "https:\/\/lpse.tanatorajakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Jeneponto",
+            "url": "https:\/\/lpse.jenepontokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Enrekang",
+            "url": "https:\/\/lpse.enrekangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Morowali",
+            "url": "https:\/\/lpse.morowalikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sulawesi Tengah",
+            "url": "https:\/\/lpse.sultengprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banggai Kepulauan",
+            "url": "https:\/\/lpse.banggaikep.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Morowali Utara",
+            "url": "https:\/\/lpse.morowaliutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banggai Laut",
+            "url": "https:\/\/lpse.banggailautkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buol",
+            "url": "https:\/\/lpsebuolkab.org\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sigi",
+            "url": "https:\/\/lpse.sigikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tolitoli",
+            "url": "https:\/\/lpse.tolitolikab.go.id\/eproc4"
+        },
+        {
+            "nama": "kota palu",
+            "url": "https:\/\/lpse.palukota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Poso",
+            "url": "https:\/\/lpse.posokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Parigi Moutong",
+            "url": "https:\/\/lpse.parigimoutongkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tojo una-una",
+            "url": "https:\/\/lpse.tojounauna.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banggai",
+            "url": "https:\/\/lpse.banggaikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Donggala",
+            "url": "https:\/\/lpse.donggala.go.id\/eproc4"
+        },
+        {
+            "nama": "Universitas Tadulako",
+            "url": "https:\/\/lpse.untad.ac.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sulawesi Tenggara",
+            "url": "https:\/\/lpse.sultraprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kolaka Timur",
+            "url": "https:\/\/lpse.kolakatimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bombana",
+            "url": "https:\/\/lpse.bombanakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Wakatobi",
+            "url": "https:\/\/lpse.wakatobikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Muna",
+            "url": "https:\/\/lpse.munakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buton Selatan",
+            "url": "https:\/\/lpse.butonselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kolaka",
+            "url": "https:\/\/lpse.kolakakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Kendari",
+            "url": "https:\/\/lpse.kendarikota.net\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Konawe Utara",
+            "url": "https:\/\/lpse.konaweutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Baubau",
+            "url": "https:\/\/lpse.baubaukota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Konawe Selatan",
+            "url": "https:\/\/lpse.konaweselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buton",
+            "url": "https:\/\/lpse.butonkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Konawe",
+            "url": "https:\/\/lpse.konawekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kolaka Utara",
+            "url": "https:\/\/lpse.kolutkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Muna Barat",
+            "url": "https:\/\/lpse.munabaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buton Utara",
+            "url": "https:\/\/lpse.butonutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Konawe Kepulauan",
+            "url": "https:\/\/lpse.konkepkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Buton Tengah",
+            "url": "https:\/\/lpse.butontengahkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sulawesi Utara",
+            "url": "https:\/\/lpse.sulutprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bitung",
+            "url": "https:\/\/lpse.bitungkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Kotamobagu",
+            "url": "https:\/\/lpse.kotamobagu.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Minahasa Utara",
+            "url": "https:\/\/lpse.minut.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Minahasa Tenggara",
+            "url": "https:\/\/lpse.mitrakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Universitas Sam Ratulangi",
+            "url": "https:\/\/lpse.unsrat.ac.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bolaang Mongondow Selatan",
+            "url": "https:\/\/lpse.bolselkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Manado",
+            "url": "https:\/\/lpse.manadokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bolaang Mongondow Timur",
+            "url": "https:\/\/lpse.boltimkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tomohon",
+            "url": "https:\/\/lpse.tomohon.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Siau Tagulandang Biaro",
+            "url": "https:\/\/lpse.sitarokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bolaang Mongondow Utara",
+            "url": "https:\/\/lpse.bolmutkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Minahasa",
+            "url": "https:\/\/lpse.minahasa.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Minahasa Selatan",
+            "url": "https:\/\/lpse.minselkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Bolaang Mongondow",
+            "url": "https:\/\/lpse.bolmongkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Sangihe",
+            "url": "https:\/\/lpse.sangihekab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Talaud",
+            "url": "https:\/\/lpse.talaudkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sumatera Barat",
+            "url": "https:\/\/lpse.sumbarprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Padang",
+            "url": "https:\/\/lpse.padang.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Agam",
+            "url": "https:\/\/lpse.agamkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Payakumbuh",
+            "url": "https:\/\/lpse.payakumbuhkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Kepulauan Mentawai",
+            "url": "https:\/\/lpse.mentawaikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tanah Datar",
+            "url": "https:\/\/lpse.tanahdatar.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Solok Selatan",
+            "url": "https:\/\/lpse.solselkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Bukittinggi",
+            "url": "https:\/\/www.lpse.bukittinggikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Sijunjung",
+            "url": "https:\/\/lpse.sijunjung.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pasaman",
+            "url": "https:\/\/lpse.pasamankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Solok",
+            "url": "https:\/\/lpse.solokkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pariaman",
+            "url": "https:\/\/lpse.pariamankota.go.id\/eproc4"
+        },
+        {
+            "nama": "Universitas Andalas",
+            "url": "http:\/\/lpse.unand.ac.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Dharmasraya",
+            "url": "https:\/\/lpse.dharmasrayakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lima Puluh Kota",
+            "url": "https:\/\/lpse.limapuluhkotakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Padang Panjang",
+            "url": "https:\/\/lpse.padangpanjang.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Solok",
+            "url": "https:\/\/lpse.solokkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pasaman Barat",
+            "url": "https:\/\/lpse.pasamanbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Sawahlunto",
+            "url": "https:\/\/lpse.sawahluntokota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pesisir Selatan",
+            "url": "https:\/\/lpse.pesisirselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Padang Pariaman",
+            "url": "https:\/\/lpse.padangpariamankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Musi Banyuasin",
+            "url": "https:\/\/lpse.mubakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Musi Rawas",
+            "url": "https:\/\/lpse.musirawaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Palembang",
+            "url": "https:\/\/lpse.palembang.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Penukal Abab Lematang Ilir",
+            "url": "https:\/\/lpse.palikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ogan Komering Ulu",
+            "url": "https:\/\/lpse.okukab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Empat Lawang",
+            "url": "https:\/\/lpse.empatlawangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Muara Enim",
+            "url": "https:\/\/lpse.muaraenimkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Banyuasin",
+            "url": "https:\/\/lpse.banyuasinkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sumatera Selatan",
+            "url": "https:\/\/lpse.sumselprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ogan Komering Ilir",
+            "url": "https:\/\/lpse.kaboki.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Komering Ulu Selatan",
+            "url": "https:\/\/lpse.okuselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ogan Ilir",
+            "url": "https:\/\/lpse.oganilirkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Lahat",
+            "url": "https:\/\/lpse.lahatkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Musi Rawas Utara",
+            "url": "https:\/\/lpse.muratarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Lubuklinggau",
+            "url": "https:\/\/lpse.lubuklinggaukota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Prabumulih",
+            "url": "https:\/\/lpse.kotaprabumulih.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pagar Alam",
+            "url": "https:\/\/lpse.pagaralamkota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Ogan Komering Ulu Timur",
+            "url": "https:\/\/lpse.okutimurkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Provinsi Sumatera Utara",
+            "url": "https:\/\/lpse.sumutprov.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Simalungun",
+            "url": "https:\/\/lpse.simalungunkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tapanuli Utara",
+            "url": "https:\/\/lpse.taputkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tebing Tinggi",
+            "url": "https:\/\/lpse.tebingtinggikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tapanuli Tengah",
+            "url": "https:\/\/lpse.tapteng.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nias Selatan",
+            "url": "https:\/\/lpse.niasselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Tapanuli Selatan",
+            "url": "https:\/\/lpse.tapselkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Medan",
+            "url": "https:\/\/lpse.pemkomedan.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Toba",
+            "url": "https:\/\/lpse.tobakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nias Utara",
+            "url": "https:\/\/lpse.niasutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Padang Lawas",
+            "url": "https:\/\/lpse.padanglawaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Batu Bara",
+            "url": "https:\/\/lpse.batubarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Deli Serdang",
+            "url": "https:\/\/lpse.deliserdangkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Asahan",
+            "url": "https:\/\/lpse.asahankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Sibolga",
+            "url": "https:\/\/lpse.sibolgakota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nias",
+            "url": "https:\/\/lpse.niaskab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Binjai",
+            "url": "https:\/\/lpse.binjaikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Humbang Hasundutan",
+            "url": "https:\/\/lpse.humbanghasundutankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Samosir",
+            "url": "https:\/\/lpse.samosirkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Karo",
+            "url": "https:\/\/lpse.karokab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Padangsidimpuan",
+            "url": "https:\/\/lpse.padangsidimpuankota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Pematangsiantar",
+            "url": "https:\/\/lpse.pematangsiantar.go.id\/eproc4"
+        },
+        {
+            "nama": "Universitas Sumatera Utara",
+            "url": "https:\/\/lpse.usu.ac.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Langkat",
+            "url": "https:\/\/lpse.langkatkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Labuhanbatu Utara",
+            "url": "https:\/\/lpse.labura.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Mandailing Natal",
+            "url": "https:\/\/lpse.madina.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Serdang Bedagai",
+            "url": "https:\/\/lpse.serdangbedagaikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Pakpak Bharat",
+            "url": "https:\/\/lpse.pakpakbharatkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Tanjungbalai",
+            "url": "https:\/\/lpse.tanjungbalaikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Labuan Batu Selatan",
+            "url": "https:\/\/lpse.labuhanbatuselatankab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Nias Barat",
+            "url": "https:\/\/lpse.niasbaratkab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Dairi",
+            "url": "https:\/\/lpse.dairikab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Padang Lawas Utara",
+            "url": "https:\/\/lpse.padanglawasutarakab.go.id\/eproc4"
+        },
+        {
+            "nama": "Kota Gunungsitoli",
+            "url": "https:\/\/lpse.gunungsitolikota.go.id\/eproc4"
+        },
+        {
+            "nama": "Kabupaten Labuhan Batu",
+            "url": "https:\/\/lpse.labuhanbatukab.go.id\/eproc4"
+        }
+    ],
+    "disableOrdering": false
+}
